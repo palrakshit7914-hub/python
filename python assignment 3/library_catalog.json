@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Python Crash Course",
+    "author": "Eric Matthes",
+    "isbn": "9781593279288",
+    "status": "available"
+  },
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "isbn": "9780132350884",
+    "status": "available"
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "David Thomas",
+    "isbn": "9780135957059",
+    "status": "issued"
+  }
+]
